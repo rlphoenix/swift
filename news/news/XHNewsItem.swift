@@ -9,7 +9,7 @@
 import Foundation
 
 class XHNewsItem{
-    var newsTitle:String?,
-    newsThumb:String?,
-    newsId:String?
+    var newsTitle:String = String(),
+    newsThumb:String = String(),
+    newsId:String = String()
 }
